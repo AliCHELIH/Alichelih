@@ -1,4 +1,4 @@
-👋 Hi, I’m AliCHELIH, a passionate web developer with a focus on building seamless user experiences and efficient frontend solutions.  
+👋 Hi, I’m AliCHELIH, a passionate web developer with a focus on building seamless user experiences and efficient frontend solutions.
 
 👀 Interests: Exploring the ever-evolving world of Web Development, with a special interest in both frontend and backend technologies.
 
